@@ -1,4 +1,4 @@
-# Matcha-sea on Flathub
+# Matcha-dark-sea on Flathub
 
 To install Matcha-sea that are hosted on Flathub, use the following:
 ```
